@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Zhipeng Wang (王志鹏), a 3rd-year student in Hangzhou Dianzi University. My major is Computer Science and Technology, and I am supervised by Prof. Ruiquan Ge (葛瑞泉) in Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) in Shenzhen Research Institute of Big Data.
+Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.
 
 News
 ======
-
++ 2024.05: We won the Finalist Prize (National First Prize) in the 2024 Mathmatical Contest In Modeling.
++ 2023.06: We won the Provincial Third Prize in the 2024 Service Outsourcing and Entrepreneurship Innovation Competition.
 
 Getting started
 ======
