@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.
+<font size=11>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
+<font size=12>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
+<font size=13>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
+<font size=14>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
+<font size=15>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
 
 News
 ======
