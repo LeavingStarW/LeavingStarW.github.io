@@ -8,24 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-<font size=2.5>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
-
 <font size=3>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year Computer Science and Technology student at Hangzhou Dianzi University, supervised by Prof. Ruiquan Ge (葛瑞泉) from Hangzhou Dianzi University and Prof. Changmiao Wang (王昌淼) from Shenzhen Research Institute of Big Data.</font>
 
 
-News
+Competition News
 ======
++ 2024.12: We won the National Bronze Medal in the China International College Students' Innovation Competition 2024.
 + 2024.05: We won the Finalist Prize (National First Prize) in the 2024 Mathmatical Contest In Modeling.
-+ 2023.06: We won the Provincial Third Prize in the 2024 Service Outsourcing and Entrepreneurship Innovation Competition.
++ 2024.05: We won the Provincial Second Prize in the Zhejiang Province Challenge Cup Competition.
++ 2023.12: We won the National Bronze Medal in the China International College Students' Innovation Competition 2023.
++ 2023.12: We won the International Third Prize in the 2023 Asia and Pacific Mathematical Contest in Modeling.
++ 2023.06: We won the Provincial Third Prize in the 2023 Service Outsourcing and Entrepreneurship Innovation Competition.
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
++ <img align="left" src=""/> [GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)
+Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, Zhipeng Wang, Jia Wu
+
++ <img align="left" src=""/> [CCLNet: Causal and Contrastive Learning Framework for Enhanced Pulmonary Embolism Detection](https://ieeexplore.ieee.org/document/10821899)
+Zhipeng Wang, Ruiquan Ge^*^, Jianxun Yu, Feiwei Qin, Yuan Tian, Nannan Li, Wenwen Min, Ahmed Elazab, Changmiao Wang^*^
+
++ <img align="left" src=""/> [PE-MVCNET: MULTI-VIEW AND CROSS-MODAL FUSION NETWORK FOR PULMONARY EMBOLISM PREDICTION](https://ieeexplore.ieee.org/document/10635747)
+Zhaoxin Guo, Zhipeng Wang, Ruiquan Ge^*^, Jianxun Yu, Feiwei Qin^*^, Yuan Tian, Yuqing Peng, Yonghong Li, Changmiao Wang
+
+#+ <img align="left" src=""/> [A Novel Fusion Network for Apple Image Classification and Quantity Recognition]
+#(https://dl.acm.org/doi/10.1145/3653781.3653794)
+#Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
+
+
 
 Site-wide configuration
 ------
