@@ -8,23 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year **Computer Science and Technology** student at Hangzhou Dianzi University, supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) from Hangzhou Dianzi University and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) from Shenzhen Research Institute of Big Data.</font>
+Hello, my name is Zhipeng Wang (王志鹏). I am a third-year **Computer Science and Technology** student at Hangzhou Dianzi University, supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) from Hangzhou Dianzi University and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) from Shenzhen Research Institute of Big Data.
 
 
-Competition News
-======
-<font size=3>
+# Competition News
 + 2024.12: We won the **National Bronze Medal** in the **China International College Students' Innovation Competition 2024**.
 + 2024.05: We won the **Finalist Prize (National First Prize)** in the **2024 Mathmatical Contest In Modeling**.
 + 2024.05: We won the **Provincial Second Prize** in the **Zhejiang Province Challenge Cup Competition**.
 + 2023.12: We won the **National Bronze Medal** in the **China International College Students' Innovation Competition 2023**.
 + 2023.12: We won the **International Third Prize** in the **2023 Asia and Pacific Mathematical Contest in Modeling**.
 + 2023.06: We won the **Provincial Third Prize** in the **2023 Service Outsourcing and Entrepreneurship Innovation Competition**.
-</font>
 
-Publications
-======
-<font size=3>
+# Publications
 + <img align="left" src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.png"/> [GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)
 
 Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, Zhipeng Wang, Jia Wu
@@ -41,7 +36,7 @@ Zhaoxin Guo, Zhipeng Wang, Ruiquan Ge^*^, Jianxun Yu, Feiwei Qin^*^, Yuan Tian, 
 (https://dl.acm.org/doi/10.1145/3653781.3653794)
 
 Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin-->
-</font>
+
 
 
 
