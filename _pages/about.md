@@ -20,18 +20,17 @@ Hello, my name is Zhipeng Wang (王志鹏). I am a third-year **Computer Science
 + 2023.06: We won the **Provincial Third Prize** in the **2023 Service Outsourcing and Entrepreneurship Innovation Competition**.
 
 # Publications
-<div style="display: flex; align-items: center; width: 100%; height: 200px; border: 1px solid #ddd;">
-    <!-- 左侧图片 -->
-    <div style="width: 40%; height: 100%; display: flex; justify-content: center; align-items: center; background: #f5f5f5;">
-        <img src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+<div style="display: flex; align-items: center; width: 100%; height: 200px;">
+    <div style="flex: 0 0 40%; display: flex; justify-content: center; align-items: center;">
+        <img src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp" alt="Image Description" style="max-width: 100%; max-height: 100%;">
     </div>
-    <!-- 右侧文本 -->
-    <div style="width: 60%; padding: 20px; box-sizing: border-box;">
-        <p style="margin: 0; line-height: 1.5;">[GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)
+    <div style="flex: 0 0 60%; display: flex; justify-content: center; align-items: center;">
+        <p>[GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)
 
 Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, Zhipeng Wang, Jia Wu</p>
     </div>
 </div>
+
 
 + <img align="left" src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp"/> [GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)
 
