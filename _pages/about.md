@@ -27,7 +27,7 @@ Hello, my name is Zhipeng Wang (王志鹏). I am a third-year **Computer Science
 <p>[GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)</p>
 </td>
 <td>
-<img src="[图片地址](https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp)" style="zoom:50%"  alt="图片名称"/>
+<img src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp" style="zoom:50%"  alt="图片名称"/>
 </td>
 </tr>
 </table>    
