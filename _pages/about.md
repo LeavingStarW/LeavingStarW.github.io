@@ -32,6 +32,7 @@ Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, Zhipeng Wang, Jia Wu</p
 </div>
 
 
+
 + <img align="left" src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp"/> [GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting](https://link.springer.com/article/10.1007/s00521-024-10692-3)
 
 Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, Zhipeng Wang, Jia Wu
