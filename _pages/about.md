@@ -24,8 +24,9 @@ redirect_from:
 # Publications
 <div style="width:100%; height:300px; display:flex; align-items:center;">
   <div style="width:40%; height:80%; display:flex; justify-content:flex-start; align-items:center;">
-    <img src="https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/images/GCINet.webp" style="width:100%; height:100%;">
+    <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/GCINet.webp" style="width:100%; height:100%;">
   </div>
+  <div style="width:10%; height:100%;></div>
   <div>
     <a href="https://link.springer.com/article/10.1007/s00521-024-10692-3">GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting</a><br>
     <p>Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, Zhipeng Wang, Jia Wu</p>
