@@ -3,18 +3,17 @@ layout: archive
 permalink: /
 author_profile: true
 ---
-## About me
 <font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.</font>
 
 ## News {#news}
 <div style="font-size:16px">
   <ul>
     <li>2024.12: We won the <b>National Bronze Medal</b> in <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
-    <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was accepted!</li>
-    <li>2024.08: Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was accepted as a regular paper!</li>
-    <li>2024.05: We won the <b>Finalist Prize (National First Prize)</b> in <a href="https://www.comap.com/contests/mcm-icm">2024 Mathmatical Contest In Modeling.</a></li>
+    <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
+    <li>2024.08: Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was <b>Accepted!</b> as a <b>Regular Paper!</b></li>
+    <li>2024.05: We won the <b>Finalist Prize (National First Prize)</b> in <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling.</a></li>
     <li>2024.05: We won the <b>Provincial Second Prize</b> in <a href="https://www.tiaozhanbei.net/">Zhejiang Province Challenge Cup Competition.</a></li>
-    <li>2024.02: Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was accepted and selected for <b>Oral Presentation!</b></li>
+    <li>2024.02: Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was <b>Accepted!</b> and selected for <b>Oral Presentation!</b></li>
     <li>2023.12: We won the <b>National Bronze Medal</b> in <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2023.</a></li>
     <li>2023.12: We won the <b>International Third Prize</b> in <a href="http://apmcm.org/">2023 Asia and Pacific Mathematical Contest in Modeling.</a></li>
     <li>2023.06: We won the <b>Provincial Third Prize</b> in <a href="http://www.fwwb.org.cn/">2023 Service Outsourcing and Entrepreneurship Innovation Competition.</a></li>
