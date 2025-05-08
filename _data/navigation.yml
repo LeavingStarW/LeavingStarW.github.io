@@ -9,11 +9,11 @@
 
 main:
   - title: "News"
-    url: /about#news
+    url: https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/_pages/about.md#news
   - title: "Publications"
-    url: /about#publications
+    url: https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/_pages/about.md#publications
   - title: "Honors"
-    url: /about#honors
+    url: https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/_pages/about.md#honors
 
   
     
