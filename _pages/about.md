@@ -12,7 +12,7 @@ redirect_from:
 <font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.</font>
 
 ## News
-<div style="font-size:13px">
+<div style="font-size:16px">
   <ul>
     <li>2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
     <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was accepted!</li>
@@ -27,8 +27,8 @@ redirect_from:
 </div>
 
 ## Publications
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:13px;">
-  <div style="width:60%; height:80%; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+  <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/GCINet.webp" style="width:100%; height:100%;">
   </div>
   <div style="width:5%; height:100%;"></div>
@@ -41,8 +41,8 @@ redirect_from:
   </div>
 </div>
 
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:13px;">
-  <div style="width:60%; height:80%; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+  <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/CCLNet.png" style="width:100%; height:100%;">
   </div>
   <div style="width:5%; height:100%;"></div>
@@ -51,12 +51,12 @@ redirect_from:
       2024 BIBM (Regular)        
     </div><br>
     <a href="https://ieeexplore.ieee.org/document/10821899">CCLNet: Causal and Contrastive Learning Framework for Enhanced Pulmonary Embolism Detection</a><br>
-    <p><b>Zhipeng Wang</b>, Ruiquan Ge^*^, Jianxun Yu, Feiwei Qin, Yuan Tian, Nannan Li, Wenwen Min, Ahmed Elazab, Changmiao Wang^*^</p>
+    <p><b>Zhipeng Wang</b>, Ruiquan Ge<sup>*</sup>, Jianxun Yu, Feiwei Qin, Yuan Tian, Nannan Li, Wenwen Min, Ahmed Elazab, Changmiao Wang<sup>*</sup></p>
   </div>
 </div>
 
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:13px;">
-  <div style="width:60%; height:80%; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+  <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/PE-MVCNet.png" style="width:100%; height:100%;">
   </div>
   <div style="width:5%; height:100%;"></div>
@@ -65,13 +65,13 @@ redirect_from:
       2024 ISBI (Oral)        
     </div><br>
     <a href="https://ieeexplore.ieee.org/document/10635747">PE-MVCNet: Multi-view and Cross-modal Fusion Network For Pulmonary Embolism Prediction</a><br>
-    <p>Zhaoxin Guo, <b>Zhipeng Wang</b>, Ruiquan Ge^*^, Jianxun Yu, Feiwei Qin^*^, Yuan Tian, Yuqing Peng, Yonghong Li, Changmiao Wang</p>
+    <p>Zhaoxin Guo, <b>Zhipeng Wang</b>, Ruiquan Ge<sup>*</sup>, Jianxun Yu, Feiwei Qin<sup>*</sup>, Yuan Tian, Yuqing Peng, Yonghong Li, Changmiao Wang</p>
   </div>
 </div>
 
 ### Other research experiences
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:13px;">
-  <div style="width:60%; height:80%; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+  <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/TTMFN.png" style="width:100%; height:100%;">
   </div>
   <div style="width:5%; height:100%;"></div>
@@ -84,8 +84,8 @@ redirect_from:
   </div>
 </div>
 
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:13px;">
-  <div style="width:60%; height:80%; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+  <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/MPSurv.webp" style="width:100%; height:100%;">
   </div>
   <div style="width:5%; height:100%;"></div>
@@ -105,7 +105,7 @@ Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
 -->
 
 ## Honors
-<div style="font-size:13px">
+<div style="font-size:16px">
   <ul>
     <li>2025: <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
     <li>2024: <a href="https://student.hdu.edu.cn/2025/0402/c795a277007/page.htm">Zhejiang Provincial Government Scholarship</a></li>
