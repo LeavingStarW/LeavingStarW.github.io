@@ -3,7 +3,9 @@ layout: archive
 permalink: /
 author_profile: true
 ---
-<font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.</font>
+<font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.<br>
+My email: 22320308@hdu.edu.cn
+</font>
 
 ## News {#news}
 <div style="font-size:16px">
@@ -98,11 +100,20 @@ https://dl.acm.org/doi/10.1145/3653781.3653794
 Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
 -->
 
+## Internships
+<div style="font-size:16px">
+  <ul>
+    <li>2023.10 - Present: Healthcare Big Data Lab, <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, Shenzhen, China</li>
+    <li>2023.10 - Present: Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China</li>
+  </ul>
+</div>
+
 ## Honors {#honors}
 <div style="font-size:16px">
   <ul>
     <li>2025: <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
     <li>2024: <a href="https://student.hdu.edu.cn/2025/0402/c795a277007/page.htm">Zhejiang Provincial Government Scholarship</a></li>
     <li>2023: <a href="https://student.hdu.edu.cn/2023/1110/c727a252884/page.htm">Zhejiang Provincial Government Scholarship</a></li>
+    <li>2023 - 2025: Won the University Outstanding Student Scholarship for five consecutive semesters</li>
   </ul>
 </div>
