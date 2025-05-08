@@ -30,7 +30,7 @@ author_profile: true
     <div style="width:300px; padding:8px; background-color:#e2effa; box-shadow:0 4px 8px rgba(0, 0, 0, 0.5); color:#333; text-align:center;">
       2025 Neural Computing and Applications        
     </div><br>
-    <a href="https://link.springer.com/article/10.1007/s00521-024-10692-3">GCINet: Global Convolution Interaction Network with A Pre-trained Reversible Normalization Method for Long-term Time Series Forecasting</a><br>
+    <a href="https://link.springer.com/article/10.1007/s00521-024-10692-3">GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting</a><br>
     <p>Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, <b>Zhipeng Wang</b>, Jia Wu</p>
   </div>
 </div>
@@ -58,7 +58,7 @@ author_profile: true
     <div style="width:300px; padding:8px; background-color:#e2effa; box-shadow:0 4px 8px rgba(0, 0, 0, 0.5); color:#333; text-align:center;">
       2024 ISBI (Oral)        
     </div><br>
-    <a href="https://ieeexplore.ieee.org/document/10635747">PE-MVCNet: Multi-view and Cross-modal Fusion Network for Pulmonary Embolism Prediction</a><br>
+    <a href="https://ieeexplore.ieee.org/document/10635747">PE-MVCNET: Multi-View and Cross-Modal Fusion Network for Pulmonary Embolism Prediction</a><br>
     <p>Zhaoxin Guo, <b>Zhipeng Wang</b>, Ruiquan Ge<sup>*</sup>, Jianxun Yu, Feiwei Qin<sup>*</sup>, Yuan Tian, Yuqing Peng, Yonghong Li, Changmiao Wang</p>
   </div>
 </div>
