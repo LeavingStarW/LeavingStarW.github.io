@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<sub>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year **Computer Science and Technology** student at Hangzhou Dianzi University</sub>
 
-Hello, my name is Zhipeng Wang (王志鹏). I am a third-year **Computer Science and Technology** student at Hangzhou Dianzi University, supervised by [Prof. Ruiquan Ge (葛瑞泉)](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) from Hangzhou Dianzi University and [Prof. Changmiao Wang (王昌淼)](https://www.sribd.cn/teacher/505) from Shenzhen Research Institute of Big Data.
+
+<font size="2">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.</font>
+
 
 
 # Competition News
