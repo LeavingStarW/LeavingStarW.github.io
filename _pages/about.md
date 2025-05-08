@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 <font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.</font>
 
-## News
+## News {#news}
 <div style="font-size:16px">
   <ul>
     <li>2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
@@ -26,7 +26,7 @@ redirect_from:
   </ul>
 </div>
 
-## Publications
+## Publications {#publications}
 <div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/GCINet.webp" style="width:100%; height:100%;">
@@ -104,7 +104,7 @@ https://dl.acm.org/doi/10.1145/3653781.3653794
 Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
 -->
 
-## Honors
+## Honors {#honors}
 <div style="font-size:16px">
   <ul>
     <li>2025: <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
