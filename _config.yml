@@ -27,14 +27,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   uri              : # URL
-  email            : "22320308@hdu.edu.cn" 
+  email            : "wangzhipeng746@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=fOJ2_IwAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-1856-360X"
   semantic         : # URL
   researchgate     : # URL
   scopus           : # URL
@@ -43,7 +42,6 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/LeavingStarW"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
