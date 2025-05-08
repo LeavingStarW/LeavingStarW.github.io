@@ -10,10 +10,10 @@ author_profile: true
   <ul>
     <li>2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
     <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
-    <li>2024.08: Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was <b>Accepted</b> as a <b>Regular Paper!</b></li>
+    <li>2024.08: Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was accepted as a <b>Regular Paper!</b></li>
     <li>2024.05: We won the <b>Finalist Prize (National First Prize)</b> in the <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling.</a></li>
     <li>2024.05: We won the <b>Provincial Second Prize</b> in the <a href="https://www.tiaozhanbei.net/">Zhejiang Province Challenge Cup Competition.</a></li>
-    <li>2024.02: Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was <b>Accepted</b> and selected for <b>Oral Presentation!</b></li>
+    <li>2024.02: Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was accepted and selected for <b>Oral Presentation!</b></li>
     <li>2023.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2023.</a></li>
     <li>2023.12: We won the <b>International Third Prize</b> in the <a href="http://apmcm.org/">2023 Asia and Pacific Mathematical Contest in Modeling.</a></li>
     <li>2023.06: We won the <b>Provincial Third Prize</b> in the <a href="http://www.fwwb.org.cn/">2023 Service Outsourcing and Entrepreneurship Innovation Competition.</a></li>
@@ -30,7 +30,7 @@ author_profile: true
     <div style="width:300px; padding:8px; background-color:#e2effa; box-shadow:0 4px 8px rgba(0, 0, 0, 0.5); color:#333; text-align:center;">
       2025 Neural Computing and Applications        
     </div><br>
-    <a href="https://link.springer.com/article/10.1007/s00521-024-10692-3">GCINet: global convolution interaction network with a pre-trained reversible normalization method for long-term time series forecasting</a><br>
+    <a href="https://link.springer.com/article/10.1007/s00521-024-10692-3">GCINet: Global Convolution Interaction Network with A Pre-trained Reversible Normalization Method for Long-term Time Series Forecasting</a><br>
     <p>Jin Fan, Baoshun Yang, Danfeng Sun, Jie Liu, Qikai Chen, <b>Zhipeng Wang</b>, Jia Wu</p>
   </div>
 </div>
@@ -58,7 +58,7 @@ author_profile: true
     <div style="width:300px; padding:8px; background-color:#e2effa; box-shadow:0 4px 8px rgba(0, 0, 0, 0.5); color:#333; text-align:center;">
       2024 ISBI (Oral)        
     </div><br>
-    <a href="https://ieeexplore.ieee.org/document/10635747">PE-MVCNet: Multi-view and Cross-modal Fusion Network For Pulmonary Embolism Prediction</a><br>
+    <a href="https://ieeexplore.ieee.org/document/10635747">PE-MVCNet: Multi-view and Cross-modal Fusion Network for Pulmonary Embolism Prediction</a><br>
     <p>Zhaoxin Guo, <b>Zhipeng Wang</b>, Ruiquan Ge<sup>*</sup>, Jianxun Yu, Feiwei Qin<sup>*</sup>, Yuan Tian, Yuqing Peng, Yonghong Li, Changmiao Wang</p>
   </div>
 </div>
