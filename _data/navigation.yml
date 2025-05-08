@@ -8,12 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "News"
-    url: https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/_pages/about.md#news
-  - title: "Publications"
-    url: https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/_pages/about.md#publications
-  - title: "Honors"
-    url: https://github.com/LeavingStarW/LeavingStarW.github.io/blob/master/_pages/about.md#honors
+
 
   
     
