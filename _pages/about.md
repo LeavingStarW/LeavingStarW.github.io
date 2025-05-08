@@ -3,8 +3,9 @@ layout: archive
 permalink: /
 author_profile: true
 ---
-<font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.<br>
-My email: 22320308@hdu.edu.cn
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<font size="3"><i class="material-icons" style="vertical-align:middle; font-size:16px;">person</i>Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.<br>
+<i class="material-icons" style="vertical-align:middle; font-size:16px;">email</i>My email: 22320308@hdu.edu.cn
 </font>
 
 ## News {#news}
