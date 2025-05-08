@@ -3,11 +3,7 @@ layout: archive
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-
 ## About me
 <font size="3">Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.</font>
 
@@ -80,7 +76,7 @@ redirect_from:
       arXiv preprint 2023
     </div><br>
     <a href="https://arxiv.org/abs/2311.07033">TTMFN: Two-stream Transformer-based Multimodal Fusion Network for Survival Prediction</a><br>
-    <p>Ruiquan Ge, Xiangyang Hu, Rungen Huang, Gangyong Jia, Yaqi Wang, Renshu Gu, Changmiao Wang, Elazab Ahmed, Linyan Wang, Juan Ye, Ye Li</p>
+    <p>Ruiquan Ge<sup>*</sup>, Xiangyang Hu, Rungen Huang, Gangyong Jia, Yaqi Wang, Renshu Gu, Changmiao Wang, Elazab Ahmed, Linyan Wang, Juan Ye, Ye Li</p>
   </div>
 </div>
 
@@ -94,7 +90,7 @@ redirect_from:
       2023 CMMCA      
     </div><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-45087-7_13">MPSurv: End-to-End Multi-model Pseudo-Label Model for Brain Tumor Survival Prediction with Population Information Integration</a><br>
-    <p>Qingsong Wang, Xin Lin, Ruiquan Ge^*^, Ahmed Elazab, Xiangyang Hu, Jionghao Cheng, Yuqing Peng, Xiang Wan, Changmiao Wang^*^</p>
+    <p>Qingsong Wang, Xin Lin, Ruiquan Ge<sup>*</sup>, Ahmed Elazab, Xiangyang Hu, Jionghao Cheng, Yuqing Peng, Xiang Wan, Changmiao Wang<sup>*</sup></p>
   </div>
 </div>
 
