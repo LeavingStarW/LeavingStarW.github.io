@@ -17,6 +17,16 @@ author_profile: true
       text-decoration: none;
       transition: all 0.3s ease;
     }
+
+    a#theme-toggle {
+  /* 禁用功能 */
+  pointer-events: none;
+  
+  /* 视觉提示 */
+  color: gray !important;
+  text-decoration: line-through !important;
+  cursor: not-allowed;
+}
     
     /* 章节标题 */
     h2 {
