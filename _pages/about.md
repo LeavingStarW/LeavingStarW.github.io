@@ -3,14 +3,14 @@ layout: archive
 permalink: /
 author_profile: true
 ---
-<font size="3">:blush: Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.<br>
+<font size="3" style="color:#000;">:blush: Hello, my name is Zhipeng Wang (王志鹏). I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.<br>
 :mailbox_with_no_mail: My email: 22320308@hdu.edu.cn
 </font>
 
 ## News
 <div style="font-size:16px; color:#000;">
   <ul>
-    <li>+2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
+    <li>2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
     <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
     <li>2024.08: Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was accepted as a <b>Regular Paper!</b></li>
     <li>2024.05: We won the <b>Finalist Prize (National First Prize)</b> in the <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling.</a></li>
@@ -23,7 +23,7 @@ author_profile: true
 </div>
 
 ## Publications
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px; color:#000;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/GCINet.webp" style="width:100%; height:100%;">
   </div>
@@ -37,7 +37,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px; color:#000;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/CCLNet.png" style="width:100%; height:100%;">
   </div>
@@ -51,7 +51,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px; color:#000;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/PE-MVCNet.png" style="width:100%; height:100%;">
   </div>
@@ -66,7 +66,7 @@ author_profile: true
 </div>
 
 ### Other research experiences
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px; color:#000;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/TTMFN.png" style="width:100%; height:100%;">
   </div>
@@ -80,7 +80,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
+<div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px; color:#000;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/MPSurv.webp" style="width:100%; height:100%;">
   </div>
@@ -101,7 +101,7 @@ Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
 -->
 
 ## Internships
-<div style="font-size:16px">
+<div style="font-size:16px; color:#000;">
   <ul>
     <li>2023.10 - Present: Healthcare Big Data Lab, <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, Shenzhen, China</li>
     <li>2023.10 - Present: Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China</li>
@@ -109,7 +109,7 @@ Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
 </div>
 
 ## Honors
-<div style="font-size:16px">
+<div style="font-size:16px; color:#000;">
   <ul>
     <li>2025: <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
     <li>2024: <a href="https://student.hdu.edu.cn/2025/0402/c795a277007/page.htm">Zhejiang Provincial Government Scholarship</a></li>
