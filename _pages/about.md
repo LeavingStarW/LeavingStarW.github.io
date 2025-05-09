@@ -13,13 +13,9 @@ author_profile: true
     }
     
     a { 
-      color: #1a6a96; 
+      color: #224B8D; 
       text-decoration: none;
       transition: all 0.3s ease;
-    }
-    a:hover { 
-      color: #1a6a96;
-      text-decoration: underline;
     }
     
     /* 章节标题 */
