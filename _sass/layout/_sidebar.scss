@@ -85,7 +85,7 @@
   display: block;          // 改为块级元素
   width: 175px;           // 固定宽度
   height: 175px;          // 与宽度相同形成正方形
-  margin-left: 0;         // 明确左边距为0
+  margin-left: 8px;         // 明确左边距为0
   border-radius: 50%;     // 正圆形
   overflow: hidden;       // 确保图片不超出圆形边界
 
