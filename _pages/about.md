@@ -15,10 +15,12 @@ author_profile: true
     a { 
       color: #1a6a96; 
       text-decoration: none;
+      font-style: oblique;
       transition: all 0.3s ease;
     }
     a:hover { 
       color: #1a6a96;
+      font-style: oblique;
       text-decoration: underline;
     }
     
@@ -115,15 +117,26 @@ author_profile: true
     }
     
     /* 列表样式 */
-    ul { 
+    .content-block ul,        /* About me, News等部分 */
+    #publications ~ div ul,   /* Publications部分 */
+    #internships div ul,      /* Internships部分 */
+    #honors div ul {          /* Honors部分 */
       padding-left: 22px;
       margin-top: 5px;
     }
-    li { 
+    
+    .content-block li,
+    #publications ~ div li,
+    #internships div li,
+    #honors div li {
       margin-bottom: 10px;
       position: relative;
     }
-    li::before {
+    
+    .content-block li::before,
+    #publications ~ div li::before,
+    #internships div li::before,
+    #honors div li::before {
       content: "•";
       color: #3498db;
       font-weight: bold;
