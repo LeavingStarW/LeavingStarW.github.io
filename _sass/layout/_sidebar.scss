@@ -81,21 +81,28 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
+  // 移动端样式
+  display: flex;                    // 替换 table-cell
+  justify-content: center;          // 水平居中
+  align-items: center;              // 垂直居中
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;                     // 明确高度形成正方形
+  margin: 0 auto;                   // 水平居中（备用）
 
   @include breakpoint($large) {
+    // 桌面端样式
     display: block;
-    width: auto;
-    height: auto;
+    width: 175px;                   // 明确宽度
+    height: 175px;                  // 与宽度相同
+    margin: 0 auto;                 // 水平居中
   }
 
   img {
-    max-width: 100%;
-    border-radius: 100%;
+    width: 50%;                   // 填充容器
+    height: 50%;                  // 填充容器
+    object-fit: cover;             // 保持比例填充
+    border-radius: 50%;            // 正圆形
+    display: block;                // 消除图片底部间隙
 
     @include breakpoint($large) {
       padding: 5px;
