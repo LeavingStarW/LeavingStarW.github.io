@@ -197,6 +197,9 @@ author_profile: true
     b, strong {
   font-weight: 600; /* 可取值：100-900（400=normal, 700=bold） */
 }
+span{
+margin-bottom: 10px;
+}
   </style>
 </head>
 
