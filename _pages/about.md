@@ -6,7 +6,7 @@ author_profile: true
 <head>
   <style>
     a{color:#2891CB;}
-    div{font-size:15px; line-height:1.5;}
+    div{font-size:15px; line-height:2.0;}
   </style>
 </head>
 
