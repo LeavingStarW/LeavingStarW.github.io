@@ -195,7 +195,7 @@ author_profile: true
     }
 
     b, strong {
-  font-weight: 500; /* 可取值：100-900（400=normal, 700=bold） */
+  font-weight: 600; /* 可取值：100-900（400=normal, 700=bold） */
 }
   </style>
 </head>
@@ -303,8 +303,8 @@ author_profile: true
 ## Internships
 <div class="content-block">
   <ul>
-    <li><span class="year">2023.10-Present:</span> Healthcare Big Data Lab, <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, Shenzhen, China</li>
-    <li><span class="year">2023.10-Present:</span> Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China</li>
+    <li><span class="year">2023.10 ~ Present:</span> Healthcare Big Data Lab, <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, Shenzhen, China</li>
+    <li><span class="year">2023.10 ~ Present:</span> Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China</li>
   </ul>
 </div>
 
@@ -314,6 +314,6 @@ author_profile: true
     <li><span class="year">2025:</span> <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
     <li><span class="year">2024:</span> <a href="https://student.hdu.edu.cn/2025/0402/c795a277007/page.htm">Zhejiang Provincial Government Scholarship</a></li>
     <li><span class="year">2023:</span> <a href="https://student.hdu.edu.cn/2023/1110/c727a252884/page.htm">Zhejiang Provincial Government Scholarship</a></li>
-    <li><span class="year">2023-2025:</span> Won the university-level Outstanding Student Scholarship for five consecutive semesters</li>
+    <li><span class="year">2023 ~ 2025:</span> Won the university-level Outstanding Student Scholarship for five consecutive semesters</li>
   </ul>
 </div>
