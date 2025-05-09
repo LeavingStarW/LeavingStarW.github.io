@@ -211,7 +211,7 @@ author_profile: true
   <ul>
     <li><span class="year">2024.12:</span> We won the <b>National Bronze Medal</b> (new project) in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024!</a></li>
     <li><span class="year">2024.12:</span> Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
-    <li><span class="year">2024.08:</span> Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was <b>Accepted</b> as a <b>Regular Paper!</b></li>
+    <li><span class="year">2024.08:</span> Our paper for <a href="https://ieeebibm.org/">BIBM 2024</a> was <b>Accepted</b> as a <b>Regular Paper!</b></li>
     <li><span class="year">2024.05:</span> We won the <b>Finalist Prize (National First Prize)</b> in the <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling!</a></li>
     <li><span class="year">2024.05:</span> We won the <b>Provincial Second Prize</b> in the <a href="https://www.tiaozhanbei.net/">Zhejiang Province Challenge Cup Competition!</a></li>
     <li><span class="year">2024.02:</span> Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was <b>Accepted</b> and selected for <b>Oral Presentation!</b></li>
