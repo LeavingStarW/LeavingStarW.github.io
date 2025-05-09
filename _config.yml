@@ -22,7 +22,7 @@ repository               : "LeavingStarW/LeavingStarW.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Zhipeng Wang (王志鹏)"
   pronouns         : # example: "she/her"  
   bio              : ""
