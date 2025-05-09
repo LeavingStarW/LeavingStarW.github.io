@@ -8,9 +8,9 @@ author_profile: true
 </font>
 
 ## News
-<div style="font-size:16px; color:"#000"">
+<div style="font-size:16px; color:#000;">
   <ul>
-    <li>2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
+    <li>+2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
     <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
     <li>2024.08: Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was accepted as a <b>Regular Paper!</b></li>
     <li>2024.05: We won the <b>Finalist Prize (National First Prize)</b> in the <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling.</a></li>
