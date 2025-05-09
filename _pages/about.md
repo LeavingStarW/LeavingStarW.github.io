@@ -47,7 +47,8 @@ author_profile: true
     .content-block {
       font-size: 15px;
       line-height: 1.8;
-      margin-bottom: 20px;
+      margin-top: 5px;
+      margin-bottom: 30px;
     }
     
     /* Emoji样式 */
@@ -197,9 +198,7 @@ author_profile: true
     b, strong {
   font-weight: 600; /* 可取值：100-900（400=normal, 700=bold） */
 }
-span{
-margin-bottom: 10px;
-}
+
   </style>
 </head>
 
