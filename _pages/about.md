@@ -7,7 +7,7 @@ author_profile: true
   <style>
     a{color:#2891CB;}
     div{font-size:15px; line-height:2.0;}
-    span{vertical-align:middle; line-height:2.0;}
+    span{vertical-align:middle; line-height:2.0; font-size:1.2em;}
   </style>
 </head>
 
