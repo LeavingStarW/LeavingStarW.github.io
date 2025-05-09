@@ -226,13 +226,17 @@
     }
 
     #theme-toggle {
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
-      }
-    }
+  a {
+    display: none !important;       /* 完全隐藏元素 */
+    visibility: hidden !important;  /* 备用隐藏方法 */
+    pointer-events: none !important; /* 禁用所有交互事件 */
+    opacity: 0 !important;          /* 完全透明 */
+    width: 0 !important;            /* 宽度归零 */
+    height: 0 !important;           /* 高度归零 */
+    position: absolute !important;  /* 脱离文档流 */
+    clip: rect(0, 0, 0, 0) !important; /* 旧版隐藏技术 */
+  }
+}
 
     a {
       position: relative;
