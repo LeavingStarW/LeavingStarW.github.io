@@ -52,9 +52,10 @@ author_profile: true
     
     /* Emoji样式 */
     .emoji { 
-      vertical-align: middle; 
+      vertical-align: middle;
       margin-right: 8px;
       font-size: 1.1em;
+      line-height: 1;
     }
     
     /* 出版物容器 */
