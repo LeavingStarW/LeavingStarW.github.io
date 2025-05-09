@@ -193,6 +193,10 @@ author_profile: true
         aspect-ratio: 3/2;
       }
     }
+
+    b, strong {
+  font-weight: 500; /* 可取值：100-900（400=normal, 700=bold） */
+}
   </style>
 </head>
 
@@ -205,15 +209,15 @@ author_profile: true
 ## News
 <div class="content-block">
   <ul>
-    <li><span class="year">2024.12:</span> We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
+    <li><span class="year">2024.12:</span> We won the <b>National Bronze Medal</b> (new project) in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024!</a></li>
     <li><span class="year">2024.12:</span> Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
-    <li><span class="year">2024.08:</span> Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was accepted as a <b>Regular Paper!</b></li>
-    <li><span class="year">2024.05:</span> We won the <b>Finalist Prize (National First Prize)</b> in the <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling.</a></li>
-    <li><span class="year">2024.05:</span> We won the <b>Provincial Second Prize</b> in the <a href="https://www.tiaozhanbei.net/">Zhejiang Province Challenge Cup Competition.</a></li>
-    <li><span class="year">2024.02:</span> Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was accepted and selected for <b>Oral Presentation!</b></li>
-    <li><span class="year">2023.12:</span> We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2023.</a></li>
-    <li><span class="year">2023.12:</span> We won the <b>International Third Prize</b> in the <a href="http://apmcm.org/">2023 Asia and Pacific Mathematical Contest in Modeling.</a></li>
-    <li><span class="year">2023.06:</span> We won the <b>Provincial Third Prize</b> in the <a href="http://www.fwwb.org.cn/">2023 Service Outsourcing and Entrepreneurship Innovation Competition.</a></li>
+    <li><span class="year">2024.08:</span> Our paper for <a href="https://ieeebibm.org/BIBM2024/">BIBM 2024</a> was <b>Accepted</b> as a <b>Regular Paper!</b></li>
+    <li><span class="year">2024.05:</span> We won the <b>Finalist Prize (National First Prize)</b> in the <a href="https://www.comap.com/contests/mcm-icm">2024 Mathematical Contest In Modeling!</a></li>
+    <li><span class="year">2024.05:</span> We won the <b>Provincial Second Prize</b> in the <a href="https://www.tiaozhanbei.net/">Zhejiang Province Challenge Cup Competition!</a></li>
+    <li><span class="year">2024.02:</span> Our paper for <a href="https://biomedicalimaging.org/2024/">ISBI 2024</a> was <b>Accepted</b> and selected for <b>Oral Presentation!</b></li>
+    <li><span class="year">2023.12:</span> We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2023!</a></li>
+    <li><span class="year">2023.12:</span> We won the <b>International Third Prize</b> in the <a href="http://apmcm.org/">2023 Asia and Pacific Mathematical Contest in Modeling!</a></li>
+    <li><span class="year">2023.06:</span> We won the <b>Provincial Third Prize</b> in the <a href="http://www.fwwb.org.cn/">14th Service Outsourcing and Entrepreneurship Innovation Competition!</a></li>
   </ul>
 </div>
 
@@ -299,8 +303,8 @@ author_profile: true
 ## Internships
 <div class="content-block">
   <ul>
-    <li><span class="year">2023.10 - Present:</span> Healthcare Big Data Lab, <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, Shenzhen, China</li>
-    <li><span class="year">2023.10 - Present:</span> Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China</li>
+    <li><span class="year">2023.10-Present:</span> Healthcare Big Data Lab, <a href="https://www.sribd.cn/">Shenzhen Research Institute of Big Data</a>, Shenzhen, China</li>
+    <li><span class="year">2023.10-Present:</span> Advanced Networking and Big Data Lab, Hangzhou Dianzi University, Hangzhou, China</li>
   </ul>
 </div>
 
@@ -310,6 +314,6 @@ author_profile: true
     <li><span class="year">2025:</span> <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
     <li><span class="year">2024:</span> <a href="https://student.hdu.edu.cn/2025/0402/c795a277007/page.htm">Zhejiang Provincial Government Scholarship</a></li>
     <li><span class="year">2023:</span> <a href="https://student.hdu.edu.cn/2023/1110/c727a252884/page.htm">Zhejiang Provincial Government Scholarship</a></li>
-    <li><span class="year">2023 - 2025:</span> Won the Outstanding Student Scholarship for five consecutive semesters</li>
+    <li><span class="year">2023-2025:</span> Won the university-level Outstanding Student Scholarship for five consecutive semesters</li>
   </ul>
 </div>
