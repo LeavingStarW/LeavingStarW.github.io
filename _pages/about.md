@@ -15,13 +15,7 @@ author_profile: true
     a { 
       color: #1a6a96; 
       text-decoration: none;
-      font-style: oblique;
       transition: all 0.3s ease;
-    }
-    a:hover { 
-      color: #1a6a96;
-      font-style: oblique;
-      text-decoration: underline;
     }
     
     /* 章节标题 */
