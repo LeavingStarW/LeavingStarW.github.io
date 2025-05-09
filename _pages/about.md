@@ -6,8 +6,8 @@ author_profile: true
 <head>
   <style>
     a{color:#2891CB;}
-    div{font-size:15px; line-height:2.0;}
-    span{vertical-align:middle}
+    div{font-size:15px; line-height:2.0; display:flex; align-items:center;}
+    span{vertical-align:middle; line-height:2.0;}
   </style>
 </head>
 
