@@ -7,8 +7,8 @@ author_profile: true
 :mailbox_with_no_mail: My email: 22320308@hdu.edu.cn
 </font>
 
-## News {#news}
-<div style="font-size:16px">
+## News
+<div style="font-size:16px; color:"#000"">
   <ul>
     <li>2024.12: We won the <b>National Bronze Medal</b> in the <a href="https://pilcchina.org/home">China International College Students' Innovation Competition 2024.</a></li>
     <li>2024.12: Our paper for <a href="https://link.springer.com/journal/521">Neural Computing and Applications</a> was <b>Accepted!</b></li>
@@ -22,7 +22,7 @@ author_profile: true
   </ul>
 </div>
 
-## Publications {#publications}
+## Publications
 <div style="width:100%; height:300px; display:flex; align-items:center; font-size:16px;">
   <div style="width:60%; height:80%; padding:20px; display:flex; justify-content:flex-start; align-items:center; border: 0.5px solid #cccccc;">
     <img src="https://raw.githubusercontent.com/LeavingStarW/LeavingStarW.github.io/refs/heads/master/images/GCINet.webp" style="width:100%; height:100%;">
@@ -108,7 +108,7 @@ Hanyu Jiang, Zhipeng Wang, Jiahan Chen, Guanyuan Pan, Yudie Jin
   </ul>
 </div>
 
-## Honors {#honors}
+## Honors
 <div style="font-size:16px">
   <ul>
     <li>2025: <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
