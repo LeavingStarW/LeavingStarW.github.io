@@ -5,8 +5,8 @@ author_profile: true
 ---
 <head>
   <style>
-    a{color: blue;}
-    div{font-size:14px}
+    a{color:#2891CB;}
+    div{font-size:15px; line-height:1.5;}
   </style>
 </head>
 
