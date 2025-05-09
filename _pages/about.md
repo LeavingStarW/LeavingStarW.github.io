@@ -315,7 +315,7 @@ author_profile: true
   <ul>
     <li><span class="year">2025:</span> <a href="https://mp.weixin.qq.com/s/lcgUXEJ5ITtSLiq1ltnagw">Top 10 Students of HDU-ITMO Joint Institute</a></li>
     <li><span class="year">2024:</span> <a href="https://student.hdu.edu.cn/2025/0402/c795a277007/page.htm">Zhejiang Provincial Government Scholarship</a></li>
-    <li><span class="year">2024:</span> Service Management Star, Academic Excellence Star, Technology Innovation Star</li>
+    <li><span class="year">2024:</span> Honored with the Service Management Star, the Academic Excellence Star and the Technology Innovation Star</li>
     <li><span class="year">2023:</span> <a href="https://student.hdu.edu.cn/2023/1110/c727a252884/page.htm">Zhejiang Provincial Government Scholarship</a></li>
     <li><span class="year">2023 ~ 2025:</span> Won the university-level Outstanding Student Scholarship for five consecutive semesters</li>
   </ul>
