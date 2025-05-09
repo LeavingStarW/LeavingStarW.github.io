@@ -91,6 +91,30 @@ author_profile: true
       font-weight: 500;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
+
+    .pub-badge {
+      display: inline-block;
+      padding: 6px 12px;
+      background: linear-gradient(135deg, #3498db, #2980b9);
+      color: white;
+      border-radius: 4px;
+      margin-bottom: 12px;
+      font-size: 14px;
+      font-weight: 500;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      position: relative;
+    }
+    .pub-badge::after {
+      content: "";
+      position: absolute;
+      bottom: -5px;
+      left: 10px;
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 5px solid #2980b9;
+    }
     
     /* 论文标题 */
     .pub-title {
