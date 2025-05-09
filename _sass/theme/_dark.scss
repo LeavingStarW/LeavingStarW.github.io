@@ -1,54 +1,74 @@
 /* ==========================================================================
-   DARK THEME
+   DARK THEME OVERRIDES
    ========================================================================== */
 
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-
-$background                 : #474747;
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
-
-/* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-
-/* Other basic settings for the template */
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$global-transition          : all 0.2s ease-in-out;
-$masthead-height            : 70px;
-$navicon-width              : 28px;
-$navicon-height             : 4px;
-$sidebar-link-max-width     : 250px;
-$sidebar-screen-min-width   : 1024px;
-
-/* Dark theme for the site */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$background};
-    --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$background-light};
-    --global-text-color                 : #{$text};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$background-lighter};
+  /* 基础颜色覆盖 */
+  --global-bg-color: #474747;
+  --global-text-color: #ffffff;
+  --global-border-color: #b3b3b3; /* 原$light-gray的近似值 */
+  
+  /* 链接颜色 */
+  --global-link-color: #0ea1c5;
+  --global-link-color-hover: #0b7d9b;
+  --global-link-color-visited: #3db4d6;
+  
+  /* 代码块 */
+  --global-code-background-color: #2d2d2d;
+  --global-code-text-color: #f8f8f2;
+  
+  /* 导航栏 */
+  --global-masthead-bg-color: #383838;
+  --global-masthead-link-color: #ffffff;
+  --global-masthead-link-color-hover: #0ea1c5;
+  
+  /* 侧边栏 */
+  --global-sidebar-bg-color: #3a3a3a;
+  --global-sidebar-link-color: #d4d4d4;
+  
+  /* 表格 */
+  --global-thead-color: #525252;
+  --global-table-border-color: #5a5a5a;
+  
+  /* 特殊状态颜色 */
+  --global-danger-color: #ff6b6b;
+  --global-info-color: #3db4d6;
+  --global-notice-color: #7a8288;
+  --global-success-color: #62c462;
+  --global-warning-color: #ffb347;
+  
+  /* 组件特定样式 */
+  .page {
+    background-color: var(--global-bg-color);
+    color: var(--global-text-color);
+  }
+  
+  a {
+    color: var(--global-link-color);
+    &:hover {
+      color: var(--global-link-color-hover);
+    }
+    &:visited {
+      color: var(--global-link-color-visited);
+    }
+  }
+  
+  pre, code {
+    background-color: var(--global-code-background-color);
+    color: var(--global-code-text-color);
+    border-color: var(--global-border-color);
+  }
+  
+  .masthead {
+    background-color: var(--global-masthead-bg-color);
+    a {
+      color: var(--global-masthead-link-color);
+      &:hover {
+        color: var(--global-masthead-link-color-hover);
+      }
+    }
+  }
+  
+  /* 添加过渡效果 */
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
