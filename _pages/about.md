@@ -7,7 +7,7 @@ author_profile: true
   <style>
     /* 基础样式 */
     body {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-family: 'Courier New', Consolas, monospace;
       color: #333;
       line-height: 1.6;
     }
@@ -54,7 +54,7 @@ author_profile: true
     /* Emoji样式 */
     .emoji { 
       vertical-align: middle;
-      margin-right: 8px;
+      margin-right: 4px;
       font-size: 1.1em;
       line-height: 1;
     }
@@ -198,7 +198,16 @@ author_profile: true
     b, strong {
   font-weight: 600; /* 可取值：100-900（400=normal, 700=bold） */
 }
-
+.image-row {
+    display: flex;
+    gap: 15px; /* 图片间距 */
+    margin-top: 20px;
+  }
+  .image-row img {
+    width: 30%; /* 等宽分布，可根据需要调整 */
+    border-radius: 8px; /* 可选：圆角效果 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 可选：阴影 */
+  }
   </style>
 </head>
 
@@ -207,6 +216,7 @@ author_profile: true
   <span class="emoji">😊</span> Hello, I am a third-year <b>Computer Science and Technology</b> student at Hangzhou Dianzi University, supervised by <a href="https://faculty.hdu.edu.cn/jsjxy/grq/main.htm">Prof. Ruiquan Ge (葛瑞泉)</a> from Hangzhou Dianzi University and <a href="https://www.sribd.cn/teacher/505">Prof. Changmiao Wang (王昌淼)</a> from Shenzhen Research Institute of Big Data.<br>
   <span class="emoji">📭</span> My email: 22320308@hdu.edu.cn
 </div>
+
 
 ## News
 <div class="content-block">
